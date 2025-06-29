@@ -54,6 +54,3 @@ Opening an Excel document.
 ```
 
 ---
-
-👩‍💻 **Developed by:** [Your Name]  
-🗂️ **Program:** Cognizant Java FSE - Digital Nurture 4.0
