@@ -46,6 +46,3 @@ Gaming Computer: Computer [CPU=Intel i9, RAM=32GB, Storage=1TB SSD, GraphicsCard
 ```
 
 ---
-
-👩‍💻 **Developed by:** [Your Name]  
-🗂️ **Program:** Cognizant Java FSE - Digital Nurture 4.0
