@@ -5,7 +5,6 @@ CREATE OR REPLACE PACKAGE CustomerManagement AS
     FUNCTION GetCustomerBalance(p_id NUMBER) RETURN NUMBER;
 END CustomerManagement;
 /
-
 -- Package Body
 CREATE OR REPLACE PACKAGE BODY CustomerManagement AS
 
