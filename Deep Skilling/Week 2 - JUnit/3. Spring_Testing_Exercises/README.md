@@ -66,7 +66,7 @@ Week 2 - JUnit
 ```bash
 git clone https://github.com/<your-username>/<your-repo>.git
 cd "Week 2 - JUnit/Spring Testing Exercises"
-
+```
 ## 📦 Install Dependencies
 `mvn clean install`
 
@@ -97,3 +97,4 @@ cd "Week 2 - JUnit/Spring Testing Exercises"
 - For integration tests, the project uses **H2 in-memory database** configured in `application-test.properties`.  
 - All test classes follow the **Arrange–Act–Assert** pattern for clarity.  
 - Mock-based tests are isolated and do **not** require the application to start fully.  
+
