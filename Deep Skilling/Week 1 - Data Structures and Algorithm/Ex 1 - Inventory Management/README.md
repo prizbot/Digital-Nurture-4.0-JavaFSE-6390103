@@ -50,3 +50,9 @@ Product removed: Product[ID=P102, Name=Smartphone, Qty=20, Price=25000.0]
 Current Inventory:
 Product[ID=P101, Name=Gaming Laptop, Qty=8, Price=85000.0]
 ```
+---
+
+**Author:** Priyadharshini NRS  
+**Superset ID:** 6390103  
+**Email:** [priyadharshininrs@gmail.com](mailto:priyadharshininrs@gmail.com)  
+**LinkedIn:** [www.linkedin.com/in/priyadharshininrs](https://www.linkedin.com/in/priyadharshininrs)
