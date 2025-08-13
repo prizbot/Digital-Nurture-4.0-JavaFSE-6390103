@@ -6,7 +6,7 @@ It covers everything from basic unit tests to full integration tests with databa
 ---
 
 ## 📂 Project Structure  
-
+```
 Week 2 - JUnit
 │
 └── 3.Spring_Testing_Exercises
@@ -31,7 +31,7 @@ Week 2 - JUnit
 │ └── Exercise9_ParameterizedTest.java
 │
 └── pom.xml
-
+```
 
 ---
 
@@ -97,4 +97,5 @@ cd "Week 2 - JUnit/Spring Testing Exercises"
 - For integration tests, the project uses **H2 in-memory database** configured in `application-test.properties`.  
 - All test classes follow the **Arrange–Act–Assert** pattern for clarity.  
 - Mock-based tests are isolated and do **not** require the application to start fully.  
+
 
