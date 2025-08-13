@@ -7,7 +7,7 @@ and applying the Arrange-Act-Assert (AAA) pattern with setup/teardown methods.
 ---
 
 ## 📂 Project Structure
-
+```
 JUnit_Basic Testing Exercises/
 ├── pom.xml
 ├── README.md
@@ -23,7 +23,7 @@ JUnit_Basic Testing Exercises/
                 ├── CalculatorTest.java # Basic unit tests for Calculator
                 ├── StringUtilsTest.java # AAA pattern with setup/teardown
                 └── AssertionsTest.java # Examples of various JUnit assertions
-
+```
 ---
 
 ## 📝 Exercises Covered
