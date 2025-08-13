@@ -128,3 +128,11 @@ gradle test
 - [Mockito Official Documentation](https://site.mockito.org/)
 - [JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/)
 - [Baeldung Mockito Tutorial](https://www.baeldung.com/mockito-series)
+
+---
+
+**Author:** Priyadharshini NRS  
+**Superset ID:** 6390103  
+**Email:** [priyadharshininrs@gmail.com](mailto:priyadharshininrs@gmail.com)  
+**LinkedIn:** [www.linkedin.com/in/priyadharshininrs](https://www.linkedin.com/in/priyadharshininrs)
+
