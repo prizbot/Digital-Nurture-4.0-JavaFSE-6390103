@@ -6,7 +6,7 @@ It is part of **Week 2 – JUnit** and focuses on parameterized testing, test su
 ---
 
 ## 📂 Project Structure
-
+```
 Advanced JUnit Testing Exercises/
 ├── pom.xml
 └── src/
@@ -24,7 +24,7 @@ Advanced JUnit Testing Exercises/
 ├── ExceptionThrowerTest.java# Exception testing
 ├── PerformanceTesterTest.java # Timeout testing
 └── AllTests.java # Test suite grouping
-
+```
 ---
 
 ## 📝 Exercises Covered
